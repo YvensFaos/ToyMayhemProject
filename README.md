@@ -1,2 +1,2 @@
 # ToyMayhemProject
-This is a prototype for a game.
+This is a prototype for a action game.
